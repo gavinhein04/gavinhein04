@@ -1,16 +1,58 @@
-## Hi there 👋
+## Contents
+1. 👋 About Me
+2. 🖥️ Technical Skills
+3. 📝 Relevant Coursework
+4. 👥 Connect
 
-<!--
-**gavinhein04/gavinhein04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 1. 👋 About Me
 
-Here are some ideas to get you started:
+My name is Gavin Hein, and I am a rising fourth-year undergraduate student at Loyola University Chicago, where I am double-majoring in data science and applied mathematics. I am also in Loyola's Interdisciplinary Honors Program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My majors reflect my interest in using computer science, statistics, and mathematics to analyze and gain meaningful insights from data. I am particularly interested in using predictive analytics to create statistical models that inform decision-making. Upon finishing my education, I intend to pursue an industry career applying predictive analytics to business decision-making strategy.
+
+## 2. 🖥️ Technical Skills
+
+- Programming Languages: Python, R, SQL, SAS, Java
+- Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, SciPy, SQLAlchemy, PyMongo, Pygame
+- R Packages: Tidyverse, Plotly, Shiny
+- Database Management: PostgreSQL, MongoDB
+- Tools: Git, Visual Studio Code, RStudio, UNIX Commands, Power BI, Microsoft Office, Google Workspace
+- Other Skills: Regression Analysis, Object-Oriented Programming
+
+## 3. 📝 Relevant Coursework:
+
+### In-Progress (Fall 2026):
+
+- Artificial Intelligence
+- Introduction to Game Theory
+- Computational Aspects of Modeling and Simulation
+- Introduction to Predictive Analytics (Graduate Course)
+
+### Completed:
+
+#### Computer Science:
+
+- Database Programming
+- Data Structures and Algorithms for Informatics
+
+#### Statistics:
+
+- Data Science Consulting
+- Applied Regression Analysis
+- SAS Programming and Applied Statistics
+
+#### Mathematics:
+
+- Introduction to Mathematical Modeling
+- Ordinary Differential Equations
+- Object-Oriented Programming with Mathematics
+- Linear Algebra
+- Introduction to Discrete Mathematics & Number Theory
+- Calculus (I, II, and III)
+
+## 4. 👥 Connect:
+
+- Email: gavinhein04@gmail.com
+- Handshake: https://luc.joinhandshake.com/profiles/gavinhein
+- LinkedIn: https://www.linkedin.com/in/gavinhein/
+- LoyolaLinked: https://loyolalinked.luc.edu/profile/gavinhein2
