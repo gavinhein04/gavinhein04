@@ -1,4 +1,4 @@
-## Contents
+## Get to Know Me
 1. 👋 About Me
 2. 🖥️ Technical Skills
 3. 📝 Relevant Coursework
@@ -19,7 +19,7 @@ My majors reflect my interest in using computer science, statistics, and mathema
 - Tools: Git, Visual Studio Code, RStudio, UNIX Commands, Power BI, Microsoft Office, Google Workspace
 - Other Skills: Regression Analysis, Object-Oriented Programming
 
-## 3. 📝 Relevant Coursework:
+## 3. 📝 Relevant Coursework
 
 ### In-Progress (Fall 2026):
 
@@ -50,7 +50,7 @@ My majors reflect my interest in using computer science, statistics, and mathema
 - Introduction to Discrete Mathematics & Number Theory
 - Calculus (I, II, and III)
 
-## 4. 👥 Connect:
+## 4. 👥 Connect
 
 - Email: gavinhein04@gmail.com
 - Handshake: https://luc.joinhandshake.com/profiles/gavinhein
