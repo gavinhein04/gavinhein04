@@ -50,7 +50,7 @@ My majors reflect my interest in using computer science, statistics, and mathema
 - Discrete Mathematics and Number Theory
 - Calculus (I, II, and III)
 
-## 4. 👥 Connect
+## 4. 👥 Connect with Me
 
 - Email: gavinhein04@gmail.com
 - Handshake: https://luc.joinhandshake.com/profiles/gavinhein
