@@ -24,9 +24,9 @@ My majors reflect my interest in using computer science, statistics, and mathema
 ### In-Progress (Fall 2026):
 
 - Artificial Intelligence
-- Introduction to Game Theory
+- Game Theory
 - Computational Aspects of Modeling and Simulation
-- Introduction to Predictive Analytics (Graduate Course)
+- Predictive Analytics (Graduate Course)
 
 ### Completed:
 
@@ -43,11 +43,11 @@ My majors reflect my interest in using computer science, statistics, and mathema
 
 #### Mathematics:
 
-- Introduction to Mathematical Modeling
+- Mathematical Modeling
 - Ordinary Differential Equations
 - Object-Oriented Programming with Mathematics
 - Linear Algebra
-- Introduction to Discrete Mathematics & Number Theory
+- Discrete Mathematics and Number Theory
 - Calculus (I, II, and III)
 
 ## 4. 👥 Connect
